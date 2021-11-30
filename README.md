@@ -1,6 +1,7 @@
 # Retrieval & Interaction Machine for Tabular Data Prediction (RIM)
 A `tensorflow` implementation of our KDD 2021 paper:
-[Retrieval & Interaction Machine for Tabular Data Prediction](https://arxiv.org/abs/2108.05252)
+[Retrieval & Interaction Machine for Tabular Data Prediction](https://arxiv.org/abs/2108.05252).
+
 If you have any questions, please contact the author: [Jiarui Qin](http://jiaruiqin.me).
 
 ## Abstract
