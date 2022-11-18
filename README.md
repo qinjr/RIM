@@ -19,7 +19,7 @@ If you have any questions, please contact the author: [Jiarui Qin](http://jiarui
 ```
 
 ## Raw file of the Tmall Dataset
-Link: https://pan.baidu.com/s/1_1YkZUSjEM1pqXgfkjVSUQ  
-Password:kegx
+Link: 链接:https://pan.baidu.com/s/1ZCs8n3X1iXWFglIiYQ9fGg
+Password:bq7j
 
 Other raw data can be downloaded from the links in the paper (Table 9).
