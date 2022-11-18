@@ -18,7 +18,7 @@ If you have any questions, please contact the author: [Jiarui Qin](http://jiarui
 }
 ```
 
-## Raw file of the Tmall Dataset
+## Raw file of the Tmall & ML-1M & LastFM Dataset
 Link: 链接:https://pan.baidu.com/s/1ZCs8n3X1iXWFglIiYQ9fGg
 Password:bq7j
 
